@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+void penjumlahan (int f, int g)
+{
+	cout << (f + g);
+}
+
+int main ()
+{
+	penjumlahan (50, 60);
+}
