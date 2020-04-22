@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+ int penjumlahan (int d, int n)
+ {
+ 	return d / n;
+ }
+ 
+ int main ()
+ {
+ 	cout << penjumlahan (100, 10);
+ }
